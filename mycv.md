@@ -24,3 +24,6 @@ Junior Web developer with an simple experience in html , css , javascript and ai
 - Completed Penetration Testing certification
 
 ## Languages
+- Arabic
+- French
+- English
