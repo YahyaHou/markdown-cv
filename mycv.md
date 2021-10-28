@@ -1,4 +1,4 @@
-!["HelloFriend](/Users/Docker/Desktop/markdown-cv/mrrobot1.JPEG "Hello") 
+!["HelloFriend](mrrobot1.jpg "hello") 
 # Summary
 Junior Web developer with an simple experience in html , css , javascript and aiming to be an expert with front and back end technologies in order to be a senior dev
 
